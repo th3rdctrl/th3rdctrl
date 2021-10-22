@@ -1,5 +1,5 @@
 # __WELCOME__
-Hi, there! I am a _Cyber Security Enthusiast_. I do nothing and I made nothing, I think. Haha but I will be really happy and appreciate if we can be friend.. 
+Hi, there! I am a _Cyber Security Enthusiast_. I do _nothing_ and I made _nothing_, I think. Haha. but I will be really happy and appreciate if we can be friend.. 
 
 # __STATISTICS__
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=th3rdctrl&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" style="width:100%" />
