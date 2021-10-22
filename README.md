@@ -4,19 +4,19 @@
     but I will be really happy and appreciate if we can be friend.. 
 
 # __STATISTICS__
-<a href="https://github.com/th3rdctrl/" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=th3rdctrl&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" style="width:100%" />
-</a>
-<span style="display:flex; flex-direction:row; justify-align:center;">
+<div>
+    <a href="https://github.com/th3rdctrl/" target="_blank">
+        <img src="https://activity-graph.herokuapp.com/graph?username=th3rdctrl&theme=redical">
+    </a>
+</div>
+<div style="display:flex; flex-direction:row; justify-align:center;">
   <a href="https://github.com/th3rdctrl/" target="_blank">
-    <img src = "https://github-readme-stats.vercel.app/api?username=th3rdctrl&show_icons=true&theme=radical&line_height=27" style="width:59%; border-right:solid 1px;" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th3rdctrl&show_icons=true&locale=en&layout=compact&theme=radical" />
   </a>
   <a href="https://github.com/th3rdctrl/" target="_blank">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=th3rdctrl&theme=radical" style="width:40%;" />
+      <img align="center" src = "https://github-readme-stats.vercel.app/api?username=th3rdctrl&show_icons=true&theme=radical&line_height=28" style="width:48%;"/>
   </a>
-</span>
+</div>
 
-# __GRAPHICS__
-<a href="https://github.com/th3rdctrl/" target="_blank">
-  <img src="https://activity-graph.herokuapp.com/graph?username=th3rdctrl&theme=redical" style="width:100%;">
-</a>
+# __PINS__
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th3rdctrl&repo=cdn)](https://github.com/th3rdctrl/cdn)
