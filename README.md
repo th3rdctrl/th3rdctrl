@@ -24,6 +24,3 @@
       <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=th3rdctrl&langs_count=3&theme=radical" style="width:26%;"/>
   </a>
 </div>
-
-# __PINS__
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th3rdctrl&repo=CDN)](https://github.com/th3rdctrl/CDN)
