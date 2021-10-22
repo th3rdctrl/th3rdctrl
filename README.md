@@ -11,10 +11,10 @@
 </div>
 <span style="display:flex; flex-direction:row; justify-align:center;">
   <a href="https://github.com/th3rdctrl/" target="_blank">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th3rdctrl&show_icons=true&locale=en&layout=compact&theme=radical" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th3rdctrl&show_icons=true&locale=en&layout=compact&line_height=28&theme=radical" style="width:45%;"/>
   </a>
   <a href="https://github.com/th3rdctrl/" target="_blank">
-      <img align="center" src = "https://github-readme-stats.vercel.app/api?username=th3rdctrl&show_icons=true&theme=radical&line_height=28" style="width:47%;"/>
+      <img align="center" src = "https://github-readme-stats.vercel.app/api?username=th3rdctrl&show_icons=true&hide=contribs&line_height=30&theme=radical" style="width:45%;"/>
   </a>
 </span>
 
