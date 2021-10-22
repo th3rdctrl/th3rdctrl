@@ -4,7 +4,9 @@
     but I will be really happy and appreciate if we can be friend.. 
 
 # __STATISTICS__
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=th3rdctrl&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" style="width:100%" />
+<a href="https://github.com/th3rdctrl/" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=th3rdctrl&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" style="width:100%" />
+</a>
 <span style="display:flex; flex-direction:row; justify-align:center;">
   <a href="https://github.com/th3rdctrl/" target="_blank">
     <img src = "https://github-readme-stats.vercel.app/api?username=th3rdctrl&show_icons=true&theme=radical&line_height=27" style="width:59%; border-right:solid 1px;" />
