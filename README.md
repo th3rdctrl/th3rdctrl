@@ -16,5 +16,6 @@
         </a>
 </div>
 
+<br>
 
-    Just Do It, Later
+    Automate Everything
