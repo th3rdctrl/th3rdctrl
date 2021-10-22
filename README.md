@@ -14,9 +14,9 @@
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th3rdctrl&show_icons=true&locale=en&layout=compact&theme=radical" />
   </a>
   <a href="https://github.com/th3rdctrl/" target="_blank">
-      <img align="center" src = "https://github-readme-stats.vercel.app/api?username=th3rdctrl&show_icons=true&theme=radical&line_height=28" style="width:48%;"/>
+      <img align="center" src = "https://github-readme-stats.vercel.app/api?username=th3rdctrl&show_icons=true&theme=radical&line_height=28" style="width:47%;"/>
   </a>
 </div>
 
 # __PINS__
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th3rdctrl&repo=cdn)](https://github.com/th3rdctrl/cdn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th3rdctrl&repo=CDN)](https://github.com/th3rdctrl/CDN)
