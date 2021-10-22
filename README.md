@@ -8,5 +8,5 @@ Hi, there! I am a _Cyber Security Enthusiast_. I do _nothing_ and I made _nothin
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=th3rdctrl&theme=radical" style="width:40%;" />
 </span>
 
-# __CONTRIBUTION__
+# __GRAPHICS__
 <img src="https://activity-graph.herokuapp.com/graph?username=th3rdctrl&theme=redical" style="width:100%;">
