@@ -9,14 +9,14 @@
         <img src="https://activity-graph.herokuapp.com/graph?username=th3rdctrl&theme=redical">
     </a>
 </div>
-<span style="display:flex; flex-direction:row; justify-align:center;">
+<div style="display:flex; flex-direction:row; justify-align:between; align-item:center">
   <a href="https://github.com/th3rdctrl/" target="_blank">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th3rdctrl&show_icons=true&locale=en&layout=compact&line_height=28&theme=radical" style="width:45%;"/>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th3rdctrl&show_icons=true&locale=en&layout=compact&line_height=28&theme=radical" style="width:49%;"/>
   </a>
   <a href="https://github.com/th3rdctrl/" target="_blank">
-      <img align="center" src = "https://github-readme-stats.vercel.app/api?username=th3rdctrl&show_icons=true&hide=contribs&line_height=30&theme=radical" style="width:45%;"/>
+      <img align="center" src = "https://github-readme-stats.vercel.app/api?username=th3rdctrl&show_icons=true&hide_title=true&line_height=30&theme=radical" style="width:49%;"/>
   </a>
-</span>
+</div>
 
 # __PINS__
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=th3rdctrl&repo=CDN)](https://github.com/th3rdctrl/CDN)
