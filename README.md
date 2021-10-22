@@ -1,6 +1,7 @@
 # __WELCOME__
 
-    Hi, there! I am a _Cyber Security Enthusiast_. I do _nothing_ and I made _nothing_, I think. Haha.
+    Hi, there! I am a _Cyber Security Enthusiast_.
+    I do _nothing_ and I made _nothing_, I think. Haha.
     but I will be really happy and appreciate if we can be friend.. 
 
 # __STATISTICS__
