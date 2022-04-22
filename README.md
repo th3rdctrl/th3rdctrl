@@ -5,6 +5,7 @@
             "firstName": "John",
             "lastName": "Doe"
         },
+        "pronounce": ["he", "him"],
         "age": undefined,
         "birth": {
             "place": undefined,
