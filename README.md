@@ -14,6 +14,7 @@
                 "year": null
             }
         },
+        "status": undefined,
         "organization": [
             "th3rdproject",
             "th3rdpaper",
