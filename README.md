@@ -14,6 +14,7 @@
                 "year": null
             }
         },
+        "race": undefined
         "status": undefined,
         "organization": [
             "th3rdproject",
