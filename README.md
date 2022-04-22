@@ -24,7 +24,7 @@
         "interest": [
             "sains",
             "technology",
-            "psycology"
+            "psychology"
         ]
     }
 }
