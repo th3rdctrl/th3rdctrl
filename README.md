@@ -22,9 +22,7 @@
             "th3rdmachine"
         ],
         "interest": [
-            "sains",
-            "technology",
-            "psychology"
+            ""
         ]
     }
 }
