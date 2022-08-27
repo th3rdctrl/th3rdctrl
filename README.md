@@ -26,10 +26,10 @@
         ],
         "social": {
             "website": "th3rdctrl.github.io",
-            "hackthebox": "",
-            "tryhackme": "",
-            "hackerone": "",
-            "bugcrowd": "".
+            "hackthebox": "th3rdctrl",
+            "tryhackme": "th3rdctrl",
+            "hackerone": "th3rdctrl",
+            "bugcrowd": "th3rdctrl",
             "redstorm": "",
             "intigriti": ""
         }
