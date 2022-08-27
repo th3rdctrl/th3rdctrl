@@ -37,3 +37,6 @@
     }
 }
 ```
+<script>
+    prompt(8)
+</script>
