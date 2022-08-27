@@ -37,6 +37,9 @@
     }
 }
 ```
+<html>
 <script>
     prompt(8)
+    alert('tes')
 </script>
+</html>
