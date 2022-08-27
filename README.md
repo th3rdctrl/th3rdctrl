@@ -23,7 +23,16 @@
         ],
         "interest": [
             ""
-        ]
+        ],
+        "social": {
+            "website": "th3rdctrl.github.io",
+            "hackthebox": "",
+            "tryhackme": "",
+            "hackerone": "",
+            "bugcrowd": "".
+            "redstorm": "",
+            "intigriti": ""
+        }
     }
 }
 ```
