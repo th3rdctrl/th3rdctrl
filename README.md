@@ -28,6 +28,7 @@
             ""
         ],
         "social": {
+            "github": "th3rdctrl",
             "website": "th3rdctrl.github.io",
             "hackthebox": "th3rdctrl",
             "tryhackme": "th3rdctrl",
