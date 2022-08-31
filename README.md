@@ -21,6 +21,7 @@
             "th3rdproject",
             "th3rdpaper",
             "th3rdmachine",
+            "th3rdlab",
             "th3rdclass"
         ],
         "interest": [
