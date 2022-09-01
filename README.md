@@ -18,6 +18,7 @@
         "race": undefined,
         "status": undefined,
         "organization": [
+            "th3rdcompany",
             "th3rdproject",
             "th3rdpaper",
             "th3rdmachine",
