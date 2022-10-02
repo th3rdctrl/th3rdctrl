@@ -35,7 +35,6 @@
             "tryhackme": "th3rdctrl",
             "hackerone": "th3rdctrl",
             "bugcrowd": "th3rdctrl",
-            "redstorm": "",
             "intigriti": ""
         }
     }
