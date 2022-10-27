@@ -26,7 +26,7 @@
             "th3rdclass"
         ],
         "interest": [
-            ""
+            undefined
         ],
         "social": {
             "github": "th3rdctrl",
