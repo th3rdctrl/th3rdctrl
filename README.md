@@ -3,8 +3,8 @@
     "th3rdctrl": {
         "type": "human",
         "name": {
-            "firstName": "John",
-            "lastName": "Doe"
+            "firstName": "Thio",
+            "lastName": "Alli"
         },
         "age": undefined,
         "birth": {
@@ -40,5 +40,3 @@
     }
 }
 ```
-
-[![@th3rdctrl's Holopin board](https://holopin.io/api/user/board?user=th3rdctrl)](https://holopin.io/@th3rdctrl)
