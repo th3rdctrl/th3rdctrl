@@ -17,14 +17,20 @@
         },
         "race": undefined,
         "status": "Almost Die",
-        "organization": [
-            "th3rdcompany",
-            "th3rdproject",
-            "th3rdpaper",
-            "th3rdmachine",
-            "th3rdlab",
-            "th3rdclass"
-        ],
+        "organization": {
+            "th3rdproject": {
+                "status": "ACTIVE"
+            },
+            "th3rdpaper":{
+                "status": "ACTIVE"
+            },
+            "th3rdmachine": {
+                "status": "ACTIVE"
+            },
+            "th3rdlab": {
+                "status": "ACTIVE"
+            }
+        },
         "interest": [
             undefined
         ],
