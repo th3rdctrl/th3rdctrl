@@ -16,7 +16,7 @@
             }
         },
         "race": undefined,
-        "status": undefined,
+        "status": "Almost Die",
         "organization": [
             "th3rdcompany",
             "th3rdproject",
@@ -29,13 +29,7 @@
             undefined
         ],
         "social": {
-            "github": "th3rdctrl",
-            "website": "th3rdctrl.github.io",
-            "hackthebox": "th3rdctrl",
-            "tryhackme": "th3rdctrl",
-            "hackerone": "th3rdctrl",
-            "bugcrowd": "th3rdctrl",
-            "intigriti": ""
+            "github": "th3rdctrl"
         }
     }
 }
