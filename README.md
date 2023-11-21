@@ -19,16 +19,16 @@
         "status": "Almost Die",
         "organization": {
             "th3rdproject": {
-                "status": "ACTIVE"
+                "status": "INACTIVE"
             },
             "th3rdpaper":{
-                "status": "ACTIVE"
+                "status": "INACTIVE"
             },
             "th3rdmachine": {
-                "status": "ACTIVE"
+                "status": "INACTIVE"
             },
             "th3rdlab": {
-                "status": "ACTIVE"
+                "status": "INACTIVE"
             }
         },
         "interest": [
